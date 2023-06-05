@@ -76,3 +76,5 @@ Debido a estos riesgos, el establecimiento de señales no está permitido por de
 
 #
 Tomado de: https://angular.io/guide/signals
+
+Código basado en curso: [Angular de cero a Experto de Fernando Herrera](https://cursos.devtalles.com/courses/angular)
